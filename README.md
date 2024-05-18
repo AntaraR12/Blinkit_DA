@@ -1,4 +1,4 @@
-# Blinkit_DA
+# Blinkit
 Blinkit, formerly known as Grofers, is an Indian instant delivery service that focuses on delivering groceries and essential household items. Founded in 2013 by Albinder Dhindsa and Saurabh Kumar, Blinkit operates in multiple cities across India, offering a wide range of products including fresh fruits, vegetables, dairy products, personal care items, and more. The company aims to provide quick and convenient delivery, often within minutes of placing an order, leveraging a network of partner stores and warehouses. Blinkit is known for its emphasis on speed, convenience, and a seamless user experience through its mobile app and website. 
 
 ## Problem statment:
